@@ -1,0 +1,22 @@
+.NoApp{
+    height: 150px;
+    width: 100%;
+    margin-left:2%;
+    margin-right:2%;
+  }
+.grid{
+    margin-left:3%;
+    margin-right:3%;
+    margin-top:2%
+}
+ion-title{
+    font-size: 2em;
+    font-weight: 600;
+}
+ion-card{
+    height: 200px;
+    
+}
+.subTitle {
+    font-size: 5vmin;
+} 

@@ -1,0 +1,110 @@
+a {
+  text-decoration: none;
+}
+
+.my-label {
+   font-size: 3rem;
+   color: blue ;
+}      
+
+.subTitle {
+   font-size: 6vmin;
+} 
+.OscoreMargin{
+  margin-left: 20px;
+  margin-left: 10px;
+}
+.scoreMargin{
+  margin-left: 7px;
+}
+.fun{
+  width: 50%;
+}
+
+.presentationImg{
+  padding-top:10px;
+  padding-bottom:10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.subTitleToolbar {
+  font-size: 2rem;
+  color:black;
+} 
+
+ p{
+  margin-left:5%;
+  margin-right:5%;
+}
+.margin{
+
+  margin-left:5%;
+}
+
+.grid{
+  margin-right:2%;
+  margin-left:2%;
+}
+
+.cat{
+  font-size: 1rem;
+  background-color: aquamarine;
+  padding:10px;
+  border-radius: 300px;
+}
+.item-background-color{
+  --ion-item-background:rgb(127, 255, 212,0.0) ;
+}
+.presentation{
+  padding-top:10px;
+  padding-bottom:10px;
+}
+.presentationImg{
+  width: 120vmin;
+  min-width: 200px;
+}
+.responsive {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.yellow{
+  color:yellow;
+  
+}
+.title{
+    font-size: 8vmin;
+}
+
+.border-left{
+  border-left-width: 1px;
+  border-left:solid;
+  border-color:darkgray;
+  
+ 
+}
+.border-right{
+ 
+  border-right-width: 1px;
+  border-right:solid;
+  border-color:darkgray;
+}
+
+.responsive-text{
+  font-size: 3vmin;
+}
+.zoomImg{
+  width:220vmin;
+}
+
+.my-custom-modal-css .modal-wrapper {
+  height: 20%;
+  top: 80%;
+  position: absolute; 
+  display: block;  
+}

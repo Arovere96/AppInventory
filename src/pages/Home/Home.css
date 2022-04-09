@@ -1,0 +1,32 @@
+
+ion-item{
+  pointer-events: auto !important;
+}
+
+.App{
+  height: 160px;
+  width: 100%;
+}
+
+
+ion-card-title{
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+
+    ion-card{
+      height: 200px;
+      
+  }
+
+  .responsive {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.subTitle {
+  font-size: 5vmin;
+}
